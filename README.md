@@ -15,5 +15,7 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
 * Click on search&reporting
 * In search&Reporting write the query your looking for(Example: index=main)
 * It will show the logs that are created in own machine.
+# References
 
+https://www.youtube.com/watch?v=m50kdsxv2K0
 
