@@ -5,3 +5,6 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
  * Sai Manikanta Durga Prasad Vinukonda
  * Yaswanth Yaram  
  * Hongyang Wang   
+
+### Download splunk
+- [Splunk Download](https://www.splunk.com/en_us/download.html)
