@@ -8,3 +8,7 @@ Splunk (the product) captures, indexes, and correlates real-time data in a searc
 
 ### Download splunk
 - [Splunk Download](https://www.splunk.com/en_us/download.html)
+
+# Basic Search - Splunk Demo
+ * Login into Splunk application 
+  
